@@ -2,8 +2,8 @@
 $toolsDir    = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url32       = 'http://filehost.perforce.com/perforce/r17.1/bin.ntx86/helix-p4-x86.exe'
 $url64       = 'http://filehost.perforce.com/perforce/r17.1/bin.ntx64/helix-p4-x64.exe'
-$checksum32  = 'a5466b6644773dab94f6fdee01b977e8473421f498acdb4947fca109a176b60a'
-$checksum64  = '0a65b8b0807b263765eee73fcb7d9b4d7cedf557f4dcc8a40fae7fdc9068b132'
+$checksum32  = '185fc0de9753c2d1efb063f50a8e9538aedfbbb53a3f9ed143738d07722dcbc5'
+$checksum64  = '625244e225495c43330643c2dcbf5ee2a41f0fa4f9dd8fba5e2daac6dab781ed'
 
 $packageArgs = @{
   packageName    = $packageName
