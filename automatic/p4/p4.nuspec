@@ -16,7 +16,7 @@
     <releaseNotes>https://www.perforce.com/perforce/doc.current/user/relnotes.txt</releaseNotes>
     <docsUrl>https://www.perforce.com/perforce/doc.current/manuals/p4guide/</docsUrl>
     <mailingListUrl>https://www.perforce.com/support-services</mailingListUrl>
-    <packageSourceUrl>https://github.com/caskater4/ChocoPackages/tree/master/p4</packageSourceUrl>
+    <packageSourceUrl>https://github.com/caskater4/chocolatey-packages/tree/master/automatic/p4</packageSourceUrl>
     <iconUrl>https://github.com/caskater4/chocolatey-packages/raw/master/icons/p4.png</iconUrl>
   </metadata>
   <files>
