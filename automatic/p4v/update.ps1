@@ -1,7 +1,7 @@
 import-module au
 
 $releaseNotesUrl = 'https://www.perforce.com/perforce/doc.current/user/p4vnotes.txt'
-$baseUrl = 'http://filehost.perforce.com/perforce/r'
+$baseUrl = 'https://cdist2.perforce.com/perforce/r'
 $x86Path = 'bin.ntx86'
 $x64Path = 'bin.ntx64'
 $checksumsFileName = 'SHA256SUMS'
